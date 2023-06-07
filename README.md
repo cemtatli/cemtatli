@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">👋🏻 hey, I'm Cem.</h3>
 
-<!--
-**cemtatli/cemtatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitter.com/vaycem">Twitter</a> •
+  <a href="https://www.linkedin.com/in/cemtatli">Linkedin</a>
+  <a href="https://cemtatli.dev">Portfolio</a>
+</p>
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working as a Frontend Developer in Turkey.
+
+- ♦️ I am focused on interface development, creating mobile-first projects that prioritize responsive design using technologies such as JavaScript, React, Next.js, and Tailwind CSS.
